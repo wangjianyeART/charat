@@ -6,7 +6,7 @@
 2. https://defi-lab.xyz/ Uniswap模拟器；Polygon Gas & Network Stats
 3. https://www.pinata.cloud/ IPFS文件托管
 4. https://nodes.guru/ 运行（测试网）节点的最新消息和教程
-5.https://app.flipsidecrypto.com/velocity?nav=Discover SQL数据挖掘有奖励
+5. https://app.flipsidecrypto.com/velocity?nav=Discover SQL数据挖掘有奖励
 ### Infrastructure 基础设施
 
 1. https://chainstack.com/
